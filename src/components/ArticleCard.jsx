@@ -29,7 +29,7 @@ const ArticleCard = ({ className }) => {
                         />
                         <div className="flex flex-col">
                             <h4 className="font-bold italic text-dark-soft text-sm md:text-base">
-                                Viola Manisa
+                                Sayed Hashim - NV22144
                             </h4>
                             <div className="flex items-center gap-x-2">
                                 <span className="bg-[#36B37E] w-fit bg-opacity-20 p-1.5 rounded-full">
