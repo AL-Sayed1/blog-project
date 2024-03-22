@@ -14,7 +14,7 @@ const SocialShareButtons = ({ url, title }) => {
             <a
                 target="_blank"
                 rel="noreferrer"
-                {/* I Used the same id as the video because i am too lazy to create a facebook account :D */}
+                /* I Used the same id as the video because i am too lazy to create a facebook account :D */
                 href={`https://www.facebook.com/dialog/share?app_id=1180206992856877&display=popup&href=${url}`}
             >
                 <FaFacebookSquare className="text-[#3b5998] w-12 h-auto" />
